@@ -1,0 +1,6 @@
+name: 'Neotrak_scanner'
+description: 'A GitHub Action to scan and push files to NeoTrak'
+author: 'prabhu@neosparktech.com'
+runs:
+  using: 'node16'
+  main: 'index.js'

@@ -1,0 +1,11 @@
+{
+    "name": "neotrak-scan-action",
+    "version": "1.0.0",
+    "description": "A GitHub Action to scan and push files to NeoTrak",
+    "main": "index.js",
+    "dependencies": {
+      "@actions/core": "^1.2.6",
+      "@actions/github": "^2.2.0"
+    }
+  }
+  
