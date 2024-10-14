@@ -6,7 +6,7 @@ const path = require('path');
 
 try {
   // Checkout the repository
-  execSync('git checkout HEAD', { stdio: 'inherit' });
+//  execSync('git checkout HEAD', { stdio: 'inherit' });
 
   // Function to recursively get all files in a directory
   function getAllFiles(dir, fileList = []) {
